@@ -1,0 +1,52 @@
+ /* Color Codes */
+ .hex-example {
+    color: #0671E0;
+}
+
+.rgb-example {
+    color: rgb(255, 0, 0);
+}
+
+.hsl-example {
+    color: hsl(120, 100%, 50%);
+}
+
+/* Text Formatting */
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.mark {
+    background-color: yellow;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.small {
+    font-size: smaller;
+}
+
+.deletion {
+    text-decoration: line-through;
+}
+
+/* List Styles */
+.ordered-list {
+    list-style-type: upper-roman;
+}
+
+.unordered-list {
+    list-style-type: square;
+}
+
+/* Span Highlight */
+.highlight {
+    background-color: lightblue;
+    font-weight: bold;
+}
